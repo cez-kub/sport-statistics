@@ -1,0 +1,21 @@
+#web scraping
+beautifulsoup4==4.12.3
+selenium==3.141.0
+urllib3==2.0.3
+#exploration
+libblas-3.9.0
+libcblas-3.9.0
+libgfortran-5.0.0
+libgfortran5-13.2.0
+liblapack-3.9.0
+libopenblas-0.3.27
+llvm-openmp-18.1.8
+numpy-2.1.1
+pandas-2.2.2
+python-dateutil-2.9.0
+python-tzdata-2024.1
+pytz-2024.1
+six-1.16.0
+#pdf handling
+openjdk-11.0.13
+tabula-py-2.6.0
